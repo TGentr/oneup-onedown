@@ -5,6 +5,8 @@ let liczbashow = document.querySelector('#liczba');
 upone.addEventListener('click', dodaj);
 downone.addEventListener('click', odejmij);
 
+
+
 let liczbataka = 0;
 
 function dodaj() {
